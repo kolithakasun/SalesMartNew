@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sales Mart</string>
+    <string name="di1">Customer Name</string>
+    <string name="di2">Address</string>
+    <string name="di3">Mobile Number</string>
+    <string name="di4">Product ID</string>
+    <string name="di5">Product Name</string>
+    <string name="di6">Quantity</string>
+    <string name="di7">Price</string>
+    <string name="di0">Add Your Delivery</string>
+    <string name="add">Add</string>
+    <string name="HOME">Home</string>
+    <string name="CLEAR">Clear</string>
+    <string name="Admin">Admin View</string>
+    <string name="Delivery">Delivery</string>
+    <string name="Search">Search</string>
+    <string name="SalesMart">Sales Mart</string>
+    <string name="ID">ID</string>
+    <string name="Status">Dilivery Status</string>
+
+
+</resources>
